@@ -1,0 +1,13 @@
+.products {
+  padding: 50px 5%;
+}
+
+.product--details h2 {
+  text-align: center;
+  transition: border-bottom 0.2s ease;
+}
+
+.product--details h2:hover {
+  border-bottom: 3px solid #fd6561;
+  transition: all 0.2s ease;
+}
