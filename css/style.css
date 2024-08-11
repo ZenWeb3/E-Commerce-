@@ -173,7 +173,7 @@ li a:hover {
 }
 
 .hero-section {
-  background-image: url(/images/hero.png);
+  background-image: url(../images/hero.png);
   background-position: right -200px top 0px;
   background-size: contain;
   background-repeat: no-repeat;
