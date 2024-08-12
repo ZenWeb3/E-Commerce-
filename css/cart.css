@@ -2,7 +2,7 @@
     display: flex;
     flex-wrap: wrap; /* Allows items to wrap on smaller screens */
     margin: 20px;
-
+    height: 100vh;
 }
 
 .cart-head{
